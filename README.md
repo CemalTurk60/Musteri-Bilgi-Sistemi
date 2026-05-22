@@ -36,6 +36,9 @@ masaüstü tabanlı müşteri yönetim uygulamasıdır.
 4. **Temizle** ile alanları sıfırla
 
 ## Geliştirici
-- **Ad Soyad:** [Adın]
-- **Öğrenci No:** [Numaran]
+- **Ad Soyad:** Cemalettin TÜRK
+- **Öğrenci No:** 2024212280
 - **Ders:** Görsel Programlama 2
+
+## Danışman
+- **Ders Sorumlusu:** Prof. Dr. Oğuz KAYNARR
